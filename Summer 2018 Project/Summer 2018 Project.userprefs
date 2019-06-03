@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\My Assets\Scripts\Player\ShipMovement.cs">
+    <Files>
+      <File FileName="Assets\My Assets\Scripts\EnemyBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\ShotMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\Player\ShipMovement.cs" Line="34" Column="23" />
+      <File FileName="Assets\My Assets\Scripts\Player\ShipFiring.cs" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\Player\PlayerHealth.cs" Line="27" Column="68" />
+      <File FileName="Assets\My Assets\Scripts\Level\ScoreHandleScript.cs" Line="25" Column="23" />
+      <File FileName="Assets\My Assets\Scripts\SpawnHandler.cs" Line="67" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
